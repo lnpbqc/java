@@ -1,5 +1,3 @@
-package learn.InnerOuterHomework;
-
 import java.util.Scanner;
 
 
